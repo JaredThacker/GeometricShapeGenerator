@@ -8,4 +8,4 @@ Would be a really useful tool for tattoo artists....
 
 ## Example
 
-> ![Example](.\public\gmg_demo.gif)
+> ![Example](https://raw.githubusercontent.com/JaredThacker/GeometricShapeGenerator/master/src/public/gmg_demo.gif)
